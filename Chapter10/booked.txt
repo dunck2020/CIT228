@@ -1,0 +1,10 @@
+Fred is in room #17
+Martha is in room #38
+Jane is in room #41
+Ted is in room #2
+Duncan is in room #22
+Liv is in room #11
+dog is in room #7
+cat is in room #10
+bob is in room #30
+nate is in room #31

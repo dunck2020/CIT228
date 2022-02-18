@@ -1,0 +1,13 @@
+{
+    "boolean": "variables that are either true or false",
+    "comments": "python comments begin with #",
+    "del": "python command used to delete items from a dictionary",
+    "if": "Conditional test which allows you to check any condition",
+    "key": "item used to access the data in a dictionary key:value pair",
+    "list": "A collection of items in a particular order",
+    "loop": "method to continually repeat instructions until a condition is met",
+    "operators": "mathematical operators for evaluating various entities",
+    "syntax error": "occurs when python does not recognize a section of code as valid python language",
+    "test": "test data for append",
+    "whitespace": "any nonprinting character, including spaces, tabs and end-of-line symbols"
+}

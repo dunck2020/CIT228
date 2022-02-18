@@ -1,0 +1,3 @@
+In Python you can print text to the command line
+In Python you can easily read files
+In Python you can use for loops
