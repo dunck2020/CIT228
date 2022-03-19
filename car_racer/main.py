@@ -27,7 +27,7 @@ class CarRacer:
         self.width, self.height = self.track.get_width(), self.track.get_height()
         self.window = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("Car Racer    --Controls: W-forward | A-left | S-back | D-right | Q to quit   Beat all 10 Levels!")
-        self.FPS = 35
+        self.FPS = 40
         self.run = True
         self.ai_car_path = [(173, 91), (99, 65), (51, 125), (66, 477), (286, 713), (395, 710), (414, 515), 
                             (505, 471), (596, 534), (607, 709), (696, 740), (740, 651), (742, 439), (713, 357), 
